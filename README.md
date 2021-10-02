@@ -1,5 +1,5 @@
 # Olist - Dashboard de Logistica
-Dashboard para área de logística com dados da plataforma de ecommerce Olist
+Dashboard para área de logística com dados da plataforma de ecommerce Olist.
 
 ## Contexto
 Este conjunto de dados foi generosamente fornecido pela Olist, loja de departamentos do mercado brasileiro. A Olist conecta pequenas empresas de todo o Brasil a plataformas de vendas sem complicações e com um único contrato. Esses comerciantes podem vender seus produtos através da Loja Olist e enviá-los diretamente aos clientes usando os parceiros de logística Olist.
